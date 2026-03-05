@@ -1,6 +1,13 @@
-sentence-transformers
+streamlit
 faiss-cpu
-transformers
-torch
-PyPDF2
 numpy
+torch
+sentence-transformers
+transformers
+diffusers
+accelerate
+moviepy
+gtts
+pillow
+PyPDF2
+python-dotenv
